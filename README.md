@@ -1,7 +1,7 @@
 # Automation QA test cases reports
 
 # Riskapp Arcadia
- https://prataptodi.github.io/Riskapp "/Riskapp"
+ https://prataptodi.github.io/Riskapp
 # FHIR Arcadia
- https://prataptodi.github.io/FHIR "/FHIR"
+ https://prataptodi.github.io/FHIR
 
